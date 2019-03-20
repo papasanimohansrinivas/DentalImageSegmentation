@@ -6,3 +6,8 @@
 #wget "https://mynotebook.labarchives.com/attachments/MTAuNHw4NTc2Mi84L0VudHJ5UGFydC8yODUyODA2Mzd8MjYuNA==/1/original?sf324=343"
 
 wget "https://data.mendeley.com/datasets/hxt48yk462/1/files/ba1c91b4-ee12-49f9-8783-7a36268478c2/DentalPanoramicXrays.zip?dl=1"
+
+sudo apt-get install unzip 
+
+unzip "./DentalPanoramicXrays.zipdl=1"
+
